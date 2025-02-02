@@ -19,9 +19,23 @@ Web application which allows for Broccoli & Co. company to capture expressions o
 
 ## How to run
 
-1. `nvm use` (v22.13.0)
-2. `npm install`
-3. `npm run dev`
+1.
+
+```
+nvm use (v22.13.0)
+```
+
+2.
+
+```
+npm install
+```
+
+3.
+
+```
+npm run dev
+```
 
 ## Utilities
 
