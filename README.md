@@ -1,6 +1,6 @@
 # Broccoli & Co. Company Registration
 
-Web application which allows for Broccoli & Co. company to capture expressions of interest for the company. Simple landing page which allow users to submit their name and email.
+Web application which allows for Broccoli & Co. company to capture expressions of interest for the company. Simple landing page with light and dark mode support which allow users to submit their name and email.
 
 ## Architecture
 
@@ -19,13 +19,13 @@ Web application which allows for Broccoli & Co. company to capture expressions o
 
 ## How to run
 
-1.
+1. Use node 22.13.0
 
 ```
-nvm use (v22.13.0)
+nvm use
 ```
 
-2.
+2. Install dependencies
 
 ```
 npm install
@@ -64,3 +64,8 @@ TypeScript type checker
 ```
 npm run typecheck
 ```
+
+## Notes / Future improvements
+
+- API_URL is hardcoded in this exercise but in a production like env it should be loaded via env variable
+- Include additional images to the landing page to make it pop more
