@@ -15,7 +15,7 @@
         "typecheck": "tsc"
     },
     "dependencies": {
-        "@mantine/core": "^7.16.2",
+        "@mantine/core": "^8.0.2",
         "@mantine/form": "^7.16.3",
         "@mantine/hooks": "^7.16.2",
         "@mantine/modals": "^7.16.2",
